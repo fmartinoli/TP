@@ -12,7 +12,7 @@ public class SatelliteController {
 	
 	@GetMapping("/satellite")
 	public String getSatellite(){
-		return "nombre1";
+		return "facu gil";
 	}	
 	
 	
